@@ -45,7 +45,7 @@ FIND THE API CODE [here](https://github.com/3mmanu33l/shoe-catalogue-api.git)
 
 ## Feedback
 
-If you have any feedback, please reach out to me on kmokhele48@gmail.com
+If you have any feedback, please reach out to me on emailchiyi@gmail.com
 
 
 ## 🔗 Links
